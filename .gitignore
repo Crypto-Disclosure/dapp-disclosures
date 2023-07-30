@@ -6,7 +6,6 @@
 # build output
 /build
 /.cache
-/public
 
 # IDE/Editor specific files
 *.idea
